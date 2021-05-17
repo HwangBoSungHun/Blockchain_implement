@@ -1,7 +1,7 @@
 # Blockchain_implement
-현장실습 당시(2018.06 ~ 2018.08, 2018.12 ~ 2019.02) Bitcoin source code를 Backend로 사용함.  
-프로젝트를 시작하기 전에 Blockchain의 전체 구조 및 코드를 확인하고자 해당 코드를 작성함.  
-참고 코드(그대로 작성): https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa  
+- 현장실습 당시(2018.06 ~ 2018.08, 2018.12 ~ 2019.02) Bitcoin source code를 Backend로 사용함  
+- 프로젝트를 시작하기 전에 Blockchain의 전체 구조 및 코드를 확인하고자 해당 코드를 작성함  
+- 참고 코드(그대로 작성): https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa  
 
 ## 코드 분석  
 ### Wallet.java
